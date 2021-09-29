@@ -33,7 +33,7 @@
 package = "netlify-plugin-rss"
   [plugins.inputs]
   # required configs, customize as needed
-  dirToScan = "/posts"  #a subfolder to scan. "content/post" to scan all
+  dirToScan = "/post"  #a subfolder to scan. "content/post" to scan all
   authorName = "swyx"
   site_url = "https://swyx.io"
   title = "swyx RSS Feed"
