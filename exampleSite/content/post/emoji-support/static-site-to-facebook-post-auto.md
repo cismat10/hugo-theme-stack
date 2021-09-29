@@ -2,7 +2,7 @@
 author = "Zahid Youssouf"
 date = 2021-09-01T02:00:00Z
 description = "Just simple test "
-tags = []
+tags = ["text"]
 title = "Static site to Facebook post auto"
 
 +++
