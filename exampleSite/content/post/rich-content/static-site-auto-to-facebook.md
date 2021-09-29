@@ -2,7 +2,6 @@
 author = "Rich Content"
 date = 2021-09-29T02:00:00Z
 description = "Hugo Authors"
-draft = true
 tags = ["text", "shortcodes "]
 title = "Static site auto to facebook"
 
