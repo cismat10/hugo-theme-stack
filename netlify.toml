@@ -55,4 +55,4 @@ package = "netlify-plugin-rss"
   # titleSelector = "title" # probably no need to change
  
   # # developer configs
-  # debugMode = false # (for development) turn true for extra diagnostic logging
+  debugMode = true # (for development) turn true for extra diagnostic logging
