@@ -19,3 +19,4 @@ fields:
   label: tags
 pages:
 - exampleSite/content/post/emoji-support/static-site-to-facebook-post-auto.md
+- exampleSite/content/post/rich-content/static-site-auto-to-facebook.md
