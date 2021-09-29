@@ -123,6 +123,9 @@ params:
       enabled: true
 menu:
   main:
+  - url: "/"
+    name: Test
+    weight: 5
   - pre: home
     url: "/"
     name: Home
