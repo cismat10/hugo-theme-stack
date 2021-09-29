@@ -17,3 +17,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- exampleSite/content/post/emoji-support/static-site-to-facebook-post-auto.md
